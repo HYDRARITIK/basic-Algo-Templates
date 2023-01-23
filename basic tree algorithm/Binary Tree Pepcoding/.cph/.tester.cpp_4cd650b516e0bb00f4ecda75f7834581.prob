@@ -1,0 +1,1 @@
+{"name":"Local: tester","url":"e:\\my algorithm templates\\basic tree algorithm\\tester.cpp","tests":[{"id":1673928513686,"input":"10 20 -1 30 50 -1 60 -1 -1 40 -1 -1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\my algorithm templates\\basic tree algorithm\\tester.cpp","group":"local","local":true}

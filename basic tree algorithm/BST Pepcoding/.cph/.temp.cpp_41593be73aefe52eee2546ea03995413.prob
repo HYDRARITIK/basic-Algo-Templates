@@ -1,0 +1,1 @@
+{"name":"Local: temp","url":"e:\\my algorithm templates\\basic dynamic_programming algo\\temp.cpp","tests":[{"id":1673586850336,"input":"10\n3\n3\n0\n2\n1\n2\n4\n2\n0\n0","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\my algorithm templates\\basic dynamic_programming algo\\temp.cpp","group":"local","local":true}

@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "new": "cpp",
+        "limits": "cpp",
+        "ostream": "cpp",
+        "cmath": "cpp",
+        "vector": "cpp",
+        "map": "cpp",
+        "random": "cpp",
+        "array": "cpp",
+        "string": "cpp"
+    }
+}
